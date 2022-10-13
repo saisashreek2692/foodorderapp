@@ -5,8 +5,7 @@ import { getStorage } from "firebase/storage";
 const firebaseConfig = {
   apiKey: "AIzaSyCNuHpXdHUTt3iwqMGqqFoIbczmhMksAL0",
   authDomain: "foodorderingapp-b902d.firebaseapp.com",
-  databaseURL:
-    "https://foodorderingapp-b902d-default-rtdb.asia-southeast1.firebasedatabase.app",
+  databaseURL: "https://foodorderingapp-b902d-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "foodorderingapp-b902d",
   storageBucket: "foodorderingapp-b902d.appspot.com",
   messagingSenderId: "488488957540",
